@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Friends>
+   <Friend>
+    <Name>Ajay</Name>
+   <Age>18</Age>
+  </Friend>
+   <Friend>
+    <Name>Vijay</Name>
+   <Age>19</Age>
+  </Friend>
+   <Friend>
+    <Name>Sanjay</Name>
+   <Age>20</Age>
+  </Friend>
+</Friends>
